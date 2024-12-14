@@ -1,0 +1,6 @@
+Start	End	type	weight
+Red river delta	Northem Midlands and Mountains	0	1
+Red river delta	North central	0	1
+North central	South Central Coast and Highlands	0	1
+South Central Coast and Highlands	South East	0	1
+South East	Cuu Long River Delta	0	1

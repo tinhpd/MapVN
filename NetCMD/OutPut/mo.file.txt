@@ -1,0 +1,74 @@
+Modularity=0.697113037109375
+ModuleID	Node
+0	Da Nang
+0	Ha Tinh
+0	Nghe An
+0	Quang Binh
+0	Quang Nam
+0	Quang Tri
+0	Thua Thien Hue
+1	Bac Can
+1	Cao Bang
+1	Dien Bien
+1	Ha Giang
+1	Lai Chau
+1	Lang Son
+1	Lao Cai
+1	Phu Tho
+1	Son La
+1	Thai Nguyen
+1	Tuyen Quang
+1	Vinh Phuc
+1	Yen Bai
+2	Ba Ria Vung Tau
+2	Binh Duong
+2	Binh Phuoc
+2	Binh Thuan
+2	Dac Nong
+2	Dong Nai
+2	Lam Dong
+2	Long An
+2	Ninh Thuan
+2	Tay Ninh
+2	TP HCM
+3	Bac Giang
+3	Bac Ninh
+3	Ha Nam
+3	Ha Noi
+3	Hai Duong
+3	Hai Phong
+3	Hoa Binh
+3	Hung Yen
+3	Nam Dinh
+3	Ninh Binh
+3	Quang Ninh
+3	Thai Binh
+3	Thanh Hoa
+4	An Giang
+4	Bac Lieu
+4	Ben Tre
+4	Ca Mau
+4	Can Tho
+4	Dong Thap
+4	Hau Giang
+4	Kien Giang
+4	Soc Trang
+4	Tien Giang
+4	Tra Vinh
+4	Vinh Long
+5	Binh Dinh
+5	Dac Lak
+5	Gia Lai
+5	Khanh Hoa
+5	Kon Tum
+5	Phu Yen
+5	Quang Ngai
+***********14/12/2024 9:10:44 PM***********
+Modularity=0.26
+ModuleID	Node
+0	Cuu Long River Delta
+0	South East
+1	Northem Midlands and Mountains
+1	Red river delta
+2	North central
+2	South Central Coast and Highlands
